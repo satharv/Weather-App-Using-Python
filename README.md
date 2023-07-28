@@ -29,7 +29,11 @@ Some ways the app can be improved further:
 ## Installation
 - First clone the repository:
   ```
-  git clone https://github.com/username/weather-app.git
+  git clone https://github.com/username/Weather-App-Using-Python.git
+  ```
+- Unzip file and move to folder
+  ```
+  cd Weather-App-Using-Python-main
   ```
 - Install the dependencies using pip:
   ```
